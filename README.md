@@ -10,7 +10,7 @@
 | Program | Master’s in Electrical and Computer Engineering |
 | Academic term | Fall 2026 |
 | Assigned dataset | Student-number column **1–7** |
-| Current stage | Part 1 data verification and preliminary engineering calculations |
+| Current stage | Part 2 NEC cable sizing and preliminary engineering calculations |
 | Planned study platform | ETAP |
 
 > **Study status:** The Part 1 template and supporting project report have been prepared. Numerical results below are preliminary calculations with stated assumptions. A completed ETAP model, solved load-flow cases, final cable and breaker selections, relay settings, and verified coordination curves are still required.
